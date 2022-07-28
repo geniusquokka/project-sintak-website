@@ -21,8 +21,8 @@
 }
 
 .andini {
-  height: 150px;
-  widht: 60px;
+  height: 200px;
+  widht: 200px;
 }
 h1 {
   font-family: Montserrat;
@@ -31,7 +31,7 @@ h1 {
 
 h2 {
   font-family: Montserrat;
-  color: white;
+  color: black;
 }
 
 img {
